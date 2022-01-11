@@ -1,0 +1,83 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+News 24 | Hindi | https://static.wikia.nocookie.net/logopedia/images/d/d5/News_24_new.jpeg | 1
+https://www.youtube.com/channel/UCuzS3rPQAYqHcLWqOFuY0pw/live
+
+NDTV India | Hindi | https://static.wikia.nocookie.net/logopedia/images/b/b5/Ndtvindialogo.png | 2
+https://www.youtube.com/user/ndtvindia/live
+
+LOfi Girl | Music | https://upload.wikimedia.org/wikipedia/en/2/23/Lofi_girl_logo.jpg | 3
+https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow/live
+
+LOfi Girl 2 | Music | https://static.wikia.nocookie.net/youtube/images/4/40/LofiRecords.jpg | 15
+https://www.youtube.com/watch?v=5qap5aO4i9A
+
+TV9 Bharatvarsh | Hindi | https://assets.rstream.me/images/yt/FYVnIHxOAC.jpg | 4
+https://www.youtube.com/c/TV9Bharatvarsh/live
+
+ABP News | Hindi | https://assets.rstream.me/images/yt/WnrwCohOYP.jpg | 5
+https://www.youtube.com/user/abpnewstv/live
+
+India Tv | Hindi | https://assets.rstream.me/images/yt/VAjQXCUpkY.jpg | 6
+https://www.youtube.com/user/IndiaTV/live
+
+News Nation | Hindi | https://upload.wikimedia.org/wikipedia/commons/e/e3/News_nation_logo.jpg | 7
+https://www.youtube.com/c/NewsNationTV/live
+
+News 18 India | Hindi | https://static.wikia.nocookie.net/logopedia/images/2/24/News_18_India.png | 8
+https://youtube.com/c/news18India/live
+
+Alternative Radio | Radio | http://3.bp.blogspot.com/-4CDRDYQPlZo/UMsFyQQCy0I/AAAAAAAANLc/-8LXzSkTdsA/s1600/Alternative-Music-Logo-PNG.png | 9
+https://www.youtube.com/channel/UClRJcsRS9YETAAj0nG_pX6g/live
+
+Best Suffle Dance | Radio | http://vignette4.wikia.nocookie.net/justdance/images/0/0c/Logo-jdtcm1924788.png | 10
+https://youtu.be/qWf-FPFmVw0
+
+Deep Sleep Music | Radio | https://www.deepsleep.be/wp-content/uploads/2018/03/LogoDeepSleep.png | 11
+https://www.youtube.com/channel/UCwobzUc3z-0PrFpoRxNszXQ/live
+
+Relaxing Music | Radio | http://dailymorocco.com/wp-content/uploads/2019/11/Hit-Radio-1-596x330.jpg | 12
+https://www.youtube.com/channel/UCNlfGuzOAKM1sycPuM_QTHg/live
+
+Mountains Music | Radio | https://www.deepsleep.be/wp-content/uploads/2018/03/LogoDeepSleep.png | 13
+https://www.youtube.com/channel/UCvgYkrQA2xrQ7feRF96W-Ag/live
+
+Jazz Music | Radio | https://upload.wikimedia.org/wikipedia/en/2/23/Lofi_girl_logo.jpg | 14
+https://www.youtube.com/channel/UC7bX_RrH3zbdp5V4j5umGgw/live
+
+SpongeBob | Cartoon | https://logos-download.com/wp-content/uploads/2016/09/SpongeBob_SquarePants_picture_running.png | 15
+https://www.youtube.com/c/SpongeBobOfficial/live
+
+Avatar | Cartoon | https://static.wikia.nocookie.net/logopedia/images/1/17/Avatar_%28Pilot_title-card%29.png | 16
+https://youtube.com/c/TeamAvatar/live
+
+Power Rangers | Cartoon | https://static.wikia.nocookie.net/logopedia/images/0/07/Power_rangers_logo.png | 17
+https://www.youtube.com/c/PowerRangersOfficial/live
+
+Shemaroo Tv | Movies | https://static.wikia.nocookie.net/logopedia/images/6/6d/Shemaroo_tv_slogan.png | 18
+https://youtube.com/c/shemaroobollywoodcomedy/live
+
+Talking Tom | Movies | https://static.wikia.nocookie.net/logopedia/images/9/90/Logo-tom-new.png | 19
+https://www.youtube.com/c/talkingtom/live
+
+Wion | Hindi | https://static.wikia.nocookie.net/logopedia/images/1/1f/WION_TV_logo.jpg | 20
+https://youtube.com/c/WION/live
+
+Republic Bharat | Hindi | https://static.wikia.nocookie.net/logopedia/images/8/88/Republic_Bharat_Rashtra_ke_Naam.jpg | 21
+https://youtube.com/c/RepublicTVBharat/live
+
+Sansad Tv | Hindi | https://sansadtv.nic.in/wp-content/uploads/2021/10/Eng-Logo-1.png | 23
+https://www.youtube.com/c/rajyasabhatv/live
+
+Aaj Tak | Hindi | https://static.wikia.nocookie.net/logopedia/images/d/db/Aaj_tak.png | 24
+https://youtube.com/channel/UCt4t-jeY85JegMlZ-E5UWtA/live
+
+DW Live | Hindi | https://static.wikia.nocookie.net/logopedia/images/d/db/Aaj_tak.png | 25
+https://youtube.com/c/dwnews/live
+
+Study Vibes | Music | https://pbs.twimg.com/profile_images/1241423819040047104/yd98FNW9_400x400.jpg | 26
+https://m.youtube.com/c/StudyVibes/live
+
+Oj | Music | https://pbs.twimg.com/profile_images/1214580775670046722/rPvUShOU_400x400.jpg | 27
+https://youtube.com/channel/UCbfwKVaFIfVDyVDndGrTKTg/live
