@@ -2,7 +2,7 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 News 24 | Hindi | https://static.wikia.nocookie.net/logopedia/images/d/d5/News_24_new.jpeg | 1
-https://youtu.be/U-HDub8S_LM
+https://youtu.be/KC8K2d_Cf_8
 
 NDTV India | Hindi | https://static.wikia.nocookie.net/logopedia/images/b/b5/Ndtvindialogo.png | 2
 https://www.youtube.com/user/ndtvindia/live
