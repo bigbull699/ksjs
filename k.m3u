@@ -6,7 +6,7 @@
 https://raw.githubusercontent.com/bigbull699/wg23910/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Ndtvindialogo.png" tvg-id="2", NDTV India
-https://raw.githubusercontent.com/bigbull699/wg23910/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690427637/ei/lIzBZOOWOoSZ8wSi6pXABw/ip/104.45.204.216/id/MN8p-Vrn6G0.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYlvQAuhCJNr8F7w0tLVCilQIiBK-xAsm8DOOP8xMZS7B6DbkheWowPy72R2xUe67dTlzn0fEBlXrCAOiEUWPrIb4FMBdiHj/spc/Ul2Sq9wBzfKc_iDMc9NoWCcdX6bZWujwp011O94bgQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000011/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPXE25OZ0clKrfwYvRrmBCghvxPU0tXgFAke_yTUkK7oAiEA9RIAopPYwt1Y_gSLCnvmvGBq5nzWJAM-NptpH-Ppk_Y%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Lofi_girl_logo.jpg" tvg-id="3", LOfi Girl
 https://raw.githubusercontent.com/bigbull699/wg23910/main/assets/moose_na.m3u
@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/bigbull699/wg23910/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/bigbull699/wg23910/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://assets.rstream.me/images/yt/VAjQXCUpkY.jpg" tvg-id="6", India Tv
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690417188/ei/xGPBZOLSEK-9sfIPmuuIwAM/ip/13.88.173.116/id/Xmm3Kr5P1Uw.20/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq-JiVpHz-vOuTv22i_UJsu_xahlf63lq6W88uA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000023/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgc_QvZjzPaRhBpvFXoITSa3GuVikOoCJvc9W9D80VlvkCIQC53gAQQ4deLo34zFb9m3VthHGbYDTxOzHvFcyNtVxOOw%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690427641/ei/mYzBZJfaFbij_9EPvLS-iAc/ip/104.45.204.216/id/Xmm3Kr5P1Uw.20/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2SqxFVisCv1fudzCT-6MJJMVNzaMOcwGRjWGbP_g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363393/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPBxb9rl-89sRQJwsz_RRO6fIlt3TW7_8hjm144pWNDbAiEA83Ya0SFNrK8PxK1TD559_RpoAVvBOs-9kRcIwQV0k1M%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/News_nation_logo.jpg" tvg-id="7", News Nation
 https://raw.githubusercontent.com/bigbull699/wg23910/main/assets/moose_na.m3u
@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/bigbull699/wg23910/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/bigbull699/wg23910/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Radio" tvg-logo="http://vignette4.wikia.nocookie.net/justdance/images/0/0c/Logo-jdtcm1924788.png" tvg-id="10", Best Suffle Dance
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690417190/ei/xmPBZOi-K8v0kgaA1ovYDw/ip/13.88.173.116/id/qWf-FPFmVw0.5/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq_PIkuLI2OC9oN-rJKtfmEH5ktG9AYRHLy8jyQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363392/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgYnTMRFwSGGNqrQRFGSXMDXFyvAv-4I6Ds-OHYC7DPVMCIQDxZlvTljkVOJHLk8NmxWQEZbK0OzEgMNwyD58UM7TmEw%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690427643/ei/m4zBZLi8KMi48wT31b_gBA/ip/104.45.204.216/id/qWf-FPFmVw0.5/source/yt_live_broadcast/requiressl/yes/tx/51000488/txs/51000487%2C51000488/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sqz1_9P5SmGCZ7xw0ekeP8uoV2zpnvpj3JQ6cyg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000013/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgawaYgmyCLvec4ghxE5-U5G5WFQgzBvNz7b1oa5SA_qECIQC3GHylr0bXM325yrAyCxtjuCt4n4jIjIY3mISuaNdUzw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Radio" tvg-logo="https://www.deepsleep.be/wp-content/uploads/2018/03/LogoDeepSleep.png" tvg-id="11", Deep Sleep Music
 https://raw.githubusercontent.com/bigbull699/wg23910/main/assets/moose_na.m3u
@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/bigbull699/wg23910/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/bigbull699/wg23910/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/SpongeBob_SquarePants_picture_running.png" tvg-id="15", SpongeBob
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690417193/ei/yWPBZMyHJfi4sfIPueyCoAI/ip/13.88.173.116/id/WEo0C5pI0f0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/Ul2Sq_f-vNPA2MU0CMj_lk-57hRBJWRUttjdbnoJQA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000023/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKoZxApE-JsVFSsTh1ed8uy1HAieYuPlJKWd-c0lLcCJAiBLQhAB_dTqkdNctfylM3-yUX6MWT2ElQ-DzDlcnA-aHQ%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690427646/ei/nozBZLnZCIfA8wS4qJnwDg/ip/104.45.204.216/id/WEo0C5pI0f0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/Ul2Sq7TejP2Q1ahQui6Gx0Mzpb9T-0Rf9riuPTKoAg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANQ6mGWIIovgN02DDDekE0hmb-p0OSalRzw7t9prBrMOAiA5MYqOZozuZupnJcERNumoIo9ZZTeILmyLEbFliOt2dQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Avatar_%28Pilot_title-card%29.png" tvg-id="16", Avatar
 https://raw.githubusercontent.com/bigbull699/wg23910/main/assets/moose_na.m3u
@@ -66,7 +66,7 @@ https://raw.githubusercontent.com/bigbull699/wg23910/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/bigbull699/wg23910/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Republic_Bharat_Rashtra_ke_Naam.jpg" tvg-id="21", Republic Bharat
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690417197/ei/zWPBZJDhFMuFkgbz_ojQCQ/ip/13.88.173.116/id/qfrocHBy6RQ.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq7wFKy7J9nhJOlaDNCEFjHOs7qZh1uL77jcwkw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgJlMMv0iDkxNphFtYzGvcN_-gKtLNYR1SQ5KVl841ArQCIQCsQIw2dsutD5zTsCjfwULxUN8TGW6mTYAmCuM9uRAgNA%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690427649/ei/oYzBZMSKGcjs8wT7wb34Dg/ip/104.45.204.216/id/qfrocHBy6RQ.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2SqwsWkE1ljISnvIjC8sr_YJfUgOvs0KjdCD2kvA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000014/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJUxrPYZX0lm-1A8G1c3PwxQB8-1FV82aGUEowXJO9AmAiBsEpkrwh8o8CC3ivPjOTpUKbd4Znbw7czit86SnEsqWQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://sansadtv.nic.in/wp-content/uploads/2021/10/Eng-Logo-1.png" tvg-id="23", Sansad Tv
 https://raw.githubusercontent.com/bigbull699/wg23910/main/assets/moose_na.m3u
@@ -75,7 +75,7 @@ https://raw.githubusercontent.com/bigbull699/wg23910/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/bigbull699/wg23910/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/Aaj_tak.png" tvg-id="25", DW Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690417199/ei/z2PBZNyPDtSYkwawrYHQCw/ip/13.88.173.116/id/pqabxBKzZ6M.132/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq1HZrif67GknvKUv7CoswQhHwhYnQbpVRTpSxvaDqlKhHG3w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgaDEmtundg9IIsqZAlkP1RrvLyM98BKcmdqEFd_cRHI8CIASbvhHyEIB3km0gYkFlVdETlI7gAJ8o1OOUvEG86-HD/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690427651/ei/o4zBZP7TCbjfvPIPlNGRgAs/ip/104.45.204.216/id/pqabxBKzZ6M.132/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq0Bhx8_k1ukwNp0iHYSKC3GkuYQL6NQFQ7MMWA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362688/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJNEt1VDnrO-3nhC_jXeb2txriKOgCCZioHwxggRG_5zAiAC8rMetV5KenFTvxwLkedjKIg1s0ZGVeOSXwrkbliIfQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://pbs.twimg.com/profile_images/1241423819040047104/yd98FNW9_400x400.jpg" tvg-id="26", Study Vibes
 https://raw.githubusercontent.com/bigbull699/wg23910/main/assets/moose_na.m3u
